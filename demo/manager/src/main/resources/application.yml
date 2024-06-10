@@ -3,7 +3,7 @@ server:
 spring:
   pf4j:
     enabled: true
-    path: /Users/leichen/ideaworkspace/pf4j-spring/demo/manager/plugins
+    path: D:/pf4j-plugins
   thymeleaf:
     prefix: classpath:/templates/
     encoding: UTF-8

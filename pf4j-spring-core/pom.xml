@@ -4,7 +4,7 @@
     <parent>
         <groupId>github.clyoudu.pf4jspring</groupId>
         <artifactId>pf4j-spring</artifactId>
-        <version>${pf4j-spring.version}</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>pf4j-spring-core</artifactId>
